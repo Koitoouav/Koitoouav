@@ -1,0 +1,115 @@
+[2026-04-03 01:31:38.976] ComboHintUiLog.Reset: start new session
+[2026-04-03 01:35:00.568] BubbleGate.Event: card=NEOWS_FURY, oldPile=None, newPile=Deck, enteredHand=False, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 01:35:00.569] BubbleGate.Skip: reason=not_entered_hand, card=NEOWS_FURY
+[2026-04-03 01:35:04.284] BubbleGate.Event: card=NEOWS_FURY, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 01:35:04.288] BubbleGate.HandEntry: card=NEOWS_FURY, netId=1, hasActiveWindow=False
+[2026-04-03 01:35:04.290] BubbleGate.CardMatch: card=NEOWS_FURY, matchCount=0
+[2026-04-03 01:35:04.291] BubbleGate.Skip: reason=first_card_not_matched, card=NEOWS_FURY, netId=1
+[2026-04-03 01:35:04.295] LegacyInfo/ComboHintOverlay.Attach: attached parent=CombatUi, type=NCombatUi, combatCreated=214868
+[2026-04-03 01:35:04.304] Overlay.BoxCreated: box=HoverTipBox
+[2026-04-03 01:35:04.308] LegacyInfo/ComboHintOverlayNode.State: reason=hidden_by_turn_state|lineCount=0|panelVisible=True|isReady=True|isVisible=False|parent=null|parentType=null|topLevel=False|z=-1|offsets=-460,110,-16,304
+[2026-04-03 01:35:04.486] BubbleGate.Event: card=STRIKE_IRONCLAD, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 01:35:04.486] BubbleGate.HandEntry: card=STRIKE_IRONCLAD, netId=1, hasActiveWindow=False
+[2026-04-03 01:35:04.487] BubbleGate.CardMatch: card=STRIKE_IRONCLAD, matchCount=0
+[2026-04-03 01:35:04.487] BubbleGate.Skip: reason=first_card_not_matched, card=STRIKE_IRONCLAD, netId=1
+[2026-04-03 01:35:04.487] LegacyInfo/ComboHintOverlayNode.State: reason=hidden_by_turn_state|lineCount=0|panelVisible=False|isReady=True|isVisible=False|parent=CombatUi|parentType=NCombatUi|topLevel=False|z=-1|offsets=-460,110,-16,304
+[2026-04-03 01:35:04.532] BubbleGate.Event: card=STRIKE_IRONCLAD, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 01:35:04.532] BubbleGate.HandEntry: card=STRIKE_IRONCLAD, netId=1, hasActiveWindow=False
+[2026-04-03 01:35:04.532] BubbleGate.CardMatch: card=STRIKE_IRONCLAD, matchCount=0
+[2026-04-03 01:35:04.532] BubbleGate.Skip: reason=first_card_not_matched, card=STRIKE_IRONCLAD, netId=1
+[2026-04-03 01:35:04.578] BubbleGate.Event: card=STRIKE_IRONCLAD, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 01:35:04.578] BubbleGate.HandEntry: card=STRIKE_IRONCLAD, netId=1, hasActiveWindow=False
+[2026-04-03 01:35:04.578] BubbleGate.CardMatch: card=STRIKE_IRONCLAD, matchCount=0
+[2026-04-03 01:35:04.578] BubbleGate.Skip: reason=first_card_not_matched, card=STRIKE_IRONCLAD, netId=1
+[2026-04-03 01:35:04.712] BubbleGate.Event: card=DEFEND_IRONCLAD, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 01:35:04.712] BubbleGate.HandEntry: card=DEFEND_IRONCLAD, netId=1, hasActiveWindow=False
+[2026-04-03 01:35:04.712] BubbleGate.CardMatch: card=DEFEND_IRONCLAD, matchCount=0
+[2026-04-03 01:35:04.712] BubbleGate.Skip: reason=first_card_not_matched, card=DEFEND_IRONCLAD, netId=1
+[2026-04-03 01:35:04.757] LegacyInfo/ComboHintOverlayNode.State: reason=no_matches_default_text|lineCount=1|panelVisible=True|isReady=True|isVisible=True|parent=CombatUi|parentType=NCombatUi|topLevel=False|z=-1|offsets=-460,110,-16,304
+[2026-04-03 01:35:04.757] Overlay.TurnStartReset: side=Player, panelVisible=True
+[2026-04-03 05:05:13.876] BubbleGate.Event: card=DEFEND_IRONCLAD, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:13.877] BubbleGate.HandEntry: card=DEFEND_IRONCLAD, netId=1, hasActiveWindow=False
+[2026-04-03 05:05:13.877] BubbleGate.CardMatch: card=DEFEND_IRONCLAD, matchCount=0
+[2026-04-03 05:05:13.877] BubbleGate.Skip: reason=first_card_not_matched, card=DEFEND_IRONCLAD, netId=1
+[2026-04-03 05:05:13.878] LegacyInfo/ComboHintOverlay.Attach: attached parent=CombatUi, type=NCombatUi, combatCreated=12824940
+[2026-04-03 05:05:13.879] Overlay.BoxCreated: box=HoverTipBox
+[2026-04-03 05:05:13.880] LegacyInfo/ComboHintOverlayNode.State: reason=hidden_by_turn_state|lineCount=0|panelVisible=True|isReady=True|isVisible=False|parent=null|parentType=null|topLevel=False|z=-1|offsets=-460,110,-16,304
+[2026-04-03 05:05:14.023] BubbleGate.Event: card=BASH, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:14.023] BubbleGate.HandEntry: card=BASH, netId=1, hasActiveWindow=False
+[2026-04-03 05:05:14.024] BubbleGate.CardMatch: card=BASH, matchCount=1
+[2026-04-03 05:05:14.025] BubbleGate.WindowStart: card=BASH, netId=1
+[2026-04-03 05:05:14.032] BubbleGate.WindowBaseline: netId=1, startVersion=1, baseline=
+[2026-04-03 05:05:14.032] BubbleGate.WindowVersion: netId=1, version=1
+[2026-04-03 05:05:14.041] LegacyInfo/ComboHintOverlayNode.State: reason=hidden_by_turn_state|lineCount=0|panelVisible=False|isReady=True|isVisible=False|parent=CombatUi|parentType=NCombatUi|topLevel=False|z=-1|offsets=-460,110,-16,304
+[2026-04-03 05:05:14.068] BubbleGate.Event: card=DEFEND_IRONCLAD, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:14.069] BubbleGate.HandEntry: card=DEFEND_IRONCLAD, netId=1, hasActiveWindow=True
+[2026-04-03 05:05:14.069] BubbleGate.CardMatch: card=DEFEND_IRONCLAD, matchCount=0
+[2026-04-03 05:05:14.069] BubbleGate.WindowRefresh: card=DEFEND_IRONCLAD, netId=1
+[2026-04-03 05:05:14.070] BubbleGate.WindowVersion: netId=1, version=2
+[2026-04-03 05:05:14.095] BubbleGate.Event: card=STRIKE_IRONCLAD, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:14.096] BubbleGate.HandEntry: card=STRIKE_IRONCLAD, netId=1, hasActiveWindow=True
+[2026-04-03 05:05:14.096] BubbleGate.CardMatch: card=STRIKE_IRONCLAD, matchCount=0
+[2026-04-03 05:05:14.096] BubbleGate.WindowRefresh: card=STRIKE_IRONCLAD, netId=1
+[2026-04-03 05:05:14.096] BubbleGate.WindowVersion: netId=1, version=3
+[2026-04-03 05:05:14.120] BubbleGate.Event: card=STRIKE_IRONCLAD, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:14.120] BubbleGate.HandEntry: card=STRIKE_IRONCLAD, netId=1, hasActiveWindow=True
+[2026-04-03 05:05:14.120] BubbleGate.CardMatch: card=STRIKE_IRONCLAD, matchCount=0
+[2026-04-03 05:05:14.121] BubbleGate.WindowRefresh: card=STRIKE_IRONCLAD, netId=1
+[2026-04-03 05:05:14.121] BubbleGate.WindowVersion: netId=1, version=4
+[2026-04-03 05:05:14.125] LegacyInfo/ComboHintOverlayNode.State: reason=visible|lineCount=1|panelVisible=True|isReady=True|isVisible=True|parent=CombatUi|parentType=NCombatUi|topLevel=False|z=-1|offsets=-460,110,-16,304
+[2026-04-03 05:05:14.126] Overlay.TurnStartReset: side=Player, panelVisible=True
+[2026-04-03 05:05:14.261] BubbleGate.WindowCancel: netId=1, expectedVersion=1
+[2026-04-03 05:05:14.393] BubbleGate.WindowCancel: netId=1, expectedVersion=2
+[2026-04-03 05:05:14.426] BubbleGate.WindowCancel: netId=1, expectedVersion=3
+[2026-04-03 05:05:14.428] BubbleGate.WindowCommit: netId=1, version=4
+[2026-04-03 05:05:14.431] BubbleGate.FinalScan: netId=1, handCount=5, matchCount=1, signature=#FF6B6B:易伤, baseline=
+[2026-04-03 05:05:14.482] BubbleGate.Emit: netId=1, text=我有[color=#FF6B6B]易伤[/color]
+[2026-04-03 05:05:17.265] BubbleGate.Event: card=DEFEND_IRONCLAD, oldPile=Hand, newPile=Play, enteredHand=False, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:17.265] BubbleGate.Skip: reason=not_entered_hand, card=DEFEND_IRONCLAD
+[2026-04-03 05:05:17.349] BubbleGate.Event: card=DEFEND_IRONCLAD, oldPile=Play, newPile=Discard, enteredHand=False, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:17.349] BubbleGate.Skip: reason=not_entered_hand, card=DEFEND_IRONCLAD
+[2026-04-03 05:05:17.541] BubbleGate.Event: card=DEFEND_IRONCLAD, oldPile=Hand, newPile=Play, enteredHand=False, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:17.541] BubbleGate.Skip: reason=not_entered_hand, card=DEFEND_IRONCLAD
+[2026-04-03 05:05:17.570] BubbleGate.Event: card=DEFEND_IRONCLAD, oldPile=Play, newPile=Discard, enteredHand=False, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:17.571] BubbleGate.Skip: reason=not_entered_hand, card=DEFEND_IRONCLAD
+[2026-04-03 05:05:18.162] BubbleGate.Event: card=STRIKE_IRONCLAD, oldPile=Hand, newPile=Play, enteredHand=False, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:18.163] BubbleGate.Skip: reason=not_entered_hand, card=STRIKE_IRONCLAD
+[2026-04-03 05:05:18.309] BubbleGate.Event: card=STRIKE_IRONCLAD, oldPile=Play, newPile=Discard, enteredHand=False, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:18.309] BubbleGate.Skip: reason=not_entered_hand, card=STRIKE_IRONCLAD
+[2026-04-03 05:05:24.803] BubbleGate.Event: card=DEFEND_IRONCLAD, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:24.803] BubbleGate.HandEntry: card=DEFEND_IRONCLAD, netId=1, hasActiveWindow=False
+[2026-04-03 05:05:24.804] BubbleGate.CardMatch: card=DEFEND_IRONCLAD, matchCount=0
+[2026-04-03 05:05:24.804] BubbleGate.Skip: reason=first_card_not_matched, card=DEFEND_IRONCLAD, netId=1
+[2026-04-03 05:05:24.804] LegacyInfo/ComboHintOverlay.Attach: attached parent=CombatUi, type=NCombatUi, combatCreated=12835987
+[2026-04-03 05:05:24.805] Overlay.BoxCreated: box=HoverTipBox
+[2026-04-03 05:05:24.806] LegacyInfo/ComboHintOverlayNode.State: reason=hidden_by_turn_state|lineCount=0|panelVisible=True|isReady=True|isVisible=False|parent=null|parentType=null|topLevel=False|z=-1|offsets=-460,110,-16,304
+[2026-04-03 05:05:24.882] BubbleGate.Event: card=BASH, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:24.882] BubbleGate.HandEntry: card=BASH, netId=1, hasActiveWindow=False
+[2026-04-03 05:05:24.882] BubbleGate.CardMatch: card=BASH, matchCount=1
+[2026-04-03 05:05:24.882] BubbleGate.WindowStart: card=BASH, netId=1
+[2026-04-03 05:05:24.882] BubbleGate.WindowBaseline: netId=1, startVersion=1, baseline=
+[2026-04-03 05:05:24.883] BubbleGate.WindowVersion: netId=1, version=1
+[2026-04-03 05:05:24.883] LegacyInfo/ComboHintOverlayNode.State: reason=hidden_by_turn_state|lineCount=0|panelVisible=False|isReady=True|isVisible=False|parent=CombatUi|parentType=NCombatUi|topLevel=False|z=-1|offsets=-460,110,-16,304
+[2026-04-03 05:05:24.904] BubbleGate.Event: card=DEFEND_IRONCLAD, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:24.904] BubbleGate.HandEntry: card=DEFEND_IRONCLAD, netId=1, hasActiveWindow=True
+[2026-04-03 05:05:24.904] BubbleGate.CardMatch: card=DEFEND_IRONCLAD, matchCount=0
+[2026-04-03 05:05:24.905] BubbleGate.WindowRefresh: card=DEFEND_IRONCLAD, netId=1
+[2026-04-03 05:05:24.905] BubbleGate.WindowVersion: netId=1, version=2
+[2026-04-03 05:05:24.922] BubbleGate.Event: card=STRIKE_IRONCLAD, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:24.923] BubbleGate.HandEntry: card=STRIKE_IRONCLAD, netId=1, hasActiveWindow=True
+[2026-04-03 05:05:24.923] BubbleGate.CardMatch: card=STRIKE_IRONCLAD, matchCount=0
+[2026-04-03 05:05:24.923] BubbleGate.WindowRefresh: card=STRIKE_IRONCLAD, netId=1
+[2026-04-03 05:05:24.923] BubbleGate.WindowVersion: netId=1, version=3
+[2026-04-03 05:05:24.940] BubbleGate.Event: card=STRIKE_IRONCLAD, oldPile=Draw, newPile=Hand, enteredHand=True, bubbleEnabled=True, overlayEnabled=True
+[2026-04-03 05:05:24.940] BubbleGate.HandEntry: card=STRIKE_IRONCLAD, netId=1, hasActiveWindow=True
+[2026-04-03 05:05:24.940] BubbleGate.CardMatch: card=STRIKE_IRONCLAD, matchCount=0
+[2026-04-03 05:05:24.940] BubbleGate.WindowRefresh: card=STRIKE_IRONCLAD, netId=1
+[2026-04-03 05:05:24.940] BubbleGate.WindowVersion: netId=1, version=4
+[2026-04-03 05:05:24.942] LegacyInfo/ComboHintOverlayNode.State: reason=visible|lineCount=1|panelVisible=True|isReady=True|isVisible=True|parent=CombatUi|parentType=NCombatUi|topLevel=False|z=-1|offsets=-460,110,-16,304
+[2026-04-03 05:05:24.942] Overlay.TurnStartReset: side=Player, panelVisible=True
+[2026-04-03 05:05:25.135] BubbleGate.WindowCancel: netId=1, expectedVersion=1
+[2026-04-03 05:05:25.204] BubbleGate.WindowCancel: netId=1, expectedVersion=2
+[2026-04-03 05:05:25.219] BubbleGate.WindowCancel: netId=1, expectedVersion=3
+[2026-04-03 05:05:25.236] BubbleGate.WindowCommit: netId=1, version=4
+[2026-04-03 05:05:25.236] BubbleGate.FinalScan: netId=1, handCount=5, matchCount=1, signature=#FF6B6B:易伤, baseline=
+[2026-04-03 05:05:25.238] BubbleGate.Emit: netId=1, text=我有[color=#FF6B6B]易伤[/color]

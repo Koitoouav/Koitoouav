@@ -1,0 +1,11 @@
+{
+  "id": "AutoRelic",
+  "name": "Auto Relic",
+  "author": "Ajktulm",
+  "description": "Test mod",
+  "version": "0.0.1",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}

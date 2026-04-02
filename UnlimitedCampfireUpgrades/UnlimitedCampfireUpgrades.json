@@ -1,0 +1,11 @@
+﻿{
+  "id": "UnlimitedCampfireUpgrades",
+  "name": "UnlimitedCampfireUpgrades",
+  "author": "2Gee",
+  "description": "在篝火时可无限升级卡牌 / Allows unlimited card upgrades at campfires.",
+  "version": "v1.0",
+  "has_dll": true,
+  "has_pck": false,
+  "dependencies": [],
+  "affects_gameplay": false
+}

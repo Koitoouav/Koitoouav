@@ -1,0 +1,11 @@
+﻿{
+  "id": "RemoveFromDeck",
+  "name": "RemoveFromDeck",
+  "author": "Masaicker",
+  "description": "Masaicker",
+  "version": "v1.0.2",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
