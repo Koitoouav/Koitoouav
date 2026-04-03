@@ -1,0 +1,11 @@
+{
+  "id": "TransformOrBanish",
+  "name": "Transform Or Banish",
+  "author": "Bengal",
+  "description": "Adds paid Transform and Banish buttons to card rewards so you can reroll bad picks or blacklist cards for the rest of the run.",
+  "version": "1.00",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": ["BaseLib"],
+  "affects_gameplay": true
+}
