@@ -1,0 +1,11 @@
+{
+  "id": "InfiniteActsMod",
+  "name": "Infinite Acts (Loop)",
+  "author": "Community",
+  "description": "After act 3, loops Overgrowth → Hive → Glory forever (regenerated maps; ch.4–6 = tier 1, 7–9 = tier 2). Ch.1–3 vanilla. From ch.4: +25% HP / +10% enemy dmg per tier (defaults, configurable), merchant +5%/run floor (tier 1+), random pools & solo-stack on by default. Loop Glory: Architect Ancient by default (optional variety). Composable roster off in code (enable in JSON). Map Tier label + pause stats panel. Harmony; MP scaling past act 2.",
+  "version": "0.2.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}
