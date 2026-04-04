@@ -1,6 +1,0 @@
-{
-  "$schema_comment": "Menu pause (\u00C9chap) : reliques, r\u00E9sum\u00E9 du run / mod.",
-  "RelicBarOpacity": 0,
-  "ShowRelicBarOpacitySliderInPauseMenu": true,
-  "ShowModStatusInPauseMenu": true
-}
