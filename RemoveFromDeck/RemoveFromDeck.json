@@ -1,8 +1,8 @@
 ﻿{
   "id": "RemoveFromDeck",
-  "name": "牌组卡牌移除",
-  "author": "荒并 Koitoouav",
-  "description": "将你的卡牌从牌组中移除",
+  "name": "RemoveFromDeck",
+  "author": "Masaicker",
+  "description": "Press Delete to remove cards from deck.\n按Delete键删除牌组卡牌。",
   "version": "v1.0.2",
   "has_pck": false,
   "has_dll": true,
