@@ -1,0 +1,11 @@
+{
+  "id": "RefreshAncient",
+  "name": "RefreshAncient",
+  "author": "Sparking3985",
+  "description": "This mod adds two extra gold-based buttons to Ancient events at the start of each act, allowing the player to reroll the event in different ways without removing randomness entirely.",
+  "version": "v0.1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": ["BaseLib"],
+  "affects_gameplay": true
+}
