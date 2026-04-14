@@ -1,0 +1,11 @@
+{
+  "id": "sts2_map_mod",
+  "name": "Map Enhance Mod",
+  "author": "Jason Song",
+  "description": "地图增强模组 | Map enhancement for the STS2 map\n按房间类型给地图节点上色，提供路线分析、设置页实时预览、可调透明度与亮度，以及 F8 快速开关，帮助你更快看清路线与关键节点。\nAdds room-type map tinting, route analysis, live settings previews, adjustable opacity/brightness, and an F8 quick toggle so routes are easier to read at a glance.",
+  "version": "0.2.2",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}

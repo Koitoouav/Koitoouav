@@ -1,0 +1,11 @@
+{
+  "id": "RefreshAncient",
+  "name": "RefreshAncient",
+  "author": "Sparking3985",
+  "description": "Adds two gold-based reroll buttons to Ancient events at the start of each act:75 gold to refresh the current options, and 100 gold to reroll the current Ancient NPC.Supports automatic Chinese/English UI text based on game language. Now support multiplayer！",
+  "version": "v1.3.1",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": ["BaseLib"],
+  "affects_gameplay": true
+}
